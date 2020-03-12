@@ -8,4 +8,77 @@
     <pattern>VocÃª cursa qual curso?</pattern>
     <template>CiÃªncia da computaÃ§Ã£o</template>
 </category>
+<category>
+    <pattern>VocÃª trabalha com o que vocÃª estuda?</pattern>
+    <template>Sim e faz alguns anos</template>
+</category>
+<category>
+    <pattern>Qual Ã© sua profissÃ£o?</pattern>
+    <template>Desenvolvedor de software</template>
+</category>
+<category>
+    <pattern>Qual seu refrigerante favorito?</pattern>
+    <template>Coca-Cola</template>
+</category>
+<category>
+    <pattern>Qual seu suco favorito?</pattern>
+    <template>Laranja</template>
+</category>
+<category>
+    <pattern>VocÃª usa caneta de qual cor?</pattern>
+    <template>Azul</template>
+</category>
+<category>
+    <pattern>Qual Ã© a primeira materia de programaÃ§Ã£o do curso?</pattern>
+    <template>LTPI</template>
+</category>
+<category>
+    <pattern>Qual linguagem aborda matÃ©ria ED1?</pattern>
+    <template>Linguagem C</template>
+</category>
+<category>
+    <pattern>Qual linguagem aborda matÃ©ria BACK-END?</pattern>
+    <template>JAVA</template>
+</category>
+<category>
+    <pattern>Qual Ã© o professor que da aula de IA?</pattern>
+    <template>Luiz</template>
+</category>
+<category>
+    <pattern>Qual Ã© o professor que da aula de IOT?</pattern>
+    <template>Luiz Maia</template>
+</category>
+<category>
+    <pattern>Qual IDE usa na matÃ©ria FRONT-END?</pattern>
+    <template>Visual Code</template>
+</category>
+<category>
+    <pattern>Qual o nome do coordenador do curso noturno?</pattern>
+    <template>Becson</template>
+</category>
+<category>
+    <pattern>Qual sÃ£o as matÃ©rias do professor Laper?</pattern>
+    <template>ED2, BACK-END, DSD e Analise de Algoritimo</template>
+</category>
+<category>
+    <pattern>?</pattern>
+    <template>Azul</template>
+</category>
+<category>
+    <pattern>VocÃª usa caneta de qual cor?</pattern>
+    <template>Azul</template>
+</category>
+<category>
+    <pattern>VocÃª usa caneta de qual cor?</pattern>
+    <template>Azul</template>
+</category>
+<category>
+    <pattern>VocÃª usa caneta de qual cor?</pattern>
+    <template>Azul</template>
+</category>
+<category>
+    <pattern>VocÃª usa caneta de qual cor?</pattern>
+    <template>Azul</template>
+</category>
+
 </aiml>
